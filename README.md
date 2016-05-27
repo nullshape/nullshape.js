@@ -1,0 +1,2 @@
+# nullshape.js
+Main library
